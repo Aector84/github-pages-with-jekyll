@@ -9,4 +9,5 @@ twitter_username: me
 github_username:  you
 
 show_excerpts: true
-theme: minima 
+
+theme: minima
