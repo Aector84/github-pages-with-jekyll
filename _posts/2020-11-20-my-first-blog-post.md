@@ -1,5 +1,5 @@
 ---
-title: "Fcuk yeah" 
-date: 2020-11-20
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 something about mary is a wonderful film? prove me wrong
