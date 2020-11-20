@@ -1,5 +1,5 @@
 ---
 title: "anthony-ector" 
-date: 20-11-2020
+date: 2020-11-20
 ---
 something about mary is a wonderful film? prove me wrong
